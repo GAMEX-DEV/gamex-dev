@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm GAMEX</h1>
+<h1 align="center">Hi 👋, I'm Yashvardhan Singh Jadaun</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gamex-dev&label=Profile%20views&color=0e75b6&style=flat" alt="gamex-dev" /> </p>
@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/itzzyashvardhansingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itzzyashvardhansingh" height="30" width="40" /></a>
+<a href="https://instagram.com/yashvardhan.singh.jadaun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itzzyashvardhansingh" height="30" width="40" /></a>
 <a href="https://dribbble.com/gamex-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="gamex-dev" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/8n65wVgk5f" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/8n65wVgk5f" height="30" width="40" /></a>
 </p>
